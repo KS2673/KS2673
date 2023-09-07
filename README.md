@@ -4,6 +4,14 @@
 - 💞️ I’m looking to collaborate on ANDROID DEVELOPER  ...
 - 📫 How to reach me  KAJAL SHARMA & @KS2673 ...
 
+- global kajal = {
+  'pronouns': 'her' | 'She',
+  'code': [JAVA, Kotlin, Android development, Dart, Xml, C, C++, flutter development],
+  'tools': [Android studio, Visual Studio Code],
+  'database': [Firebase, SQL],
+  'platform': [Windows, Linux]
+}
+
 
 <!---
 KS2673/KS2673 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
